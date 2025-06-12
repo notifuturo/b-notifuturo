@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>NotiFuturo</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on NotiFuturo</description>
+    <generator>Hugo -- 0.147.7</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 12 Jun 2025 07:39:10 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🤖 La IA supera a los humanos en inteligencia emocional</title>
+      <link>http://localhost:1313/posts/ia-supera-humanos-emociones/</link>
+      <pubDate>Thu, 12 Jun 2025 07:39:10 -0400</pubDate>
+      <guid>http://localhost:1313/posts/ia-supera-humanos-emociones/</guid>
+      <description>&lt;p&gt;🤖 La IA supera a los humanos en inteligencia emocional En un estudio revolucionario, la inteligencia artificial no solo demostró dominar la lógica y la velocidad, sino que también superó a los humanos en inteligencia emocional. Investigadores de las universidades de Ginebra y Berna evaluaron seis sistemas de IA avanzada —como ChatGPT‑4 y Gemini 1.5 Flash— en cinco pruebas reconocidas de inteligencia emocional (IE). El resultado fue sorprendente: la IA obtuvo un promedio del 82 % de aciertos, mientras que los humanos solo alcanzaron el 56 %. Más aún: ChatGPT‑4 fue capaz de crear sus propias preguntas de prueba de inteligencia emocional, que fueron calificadas como igual de claras y fiables que las originales por más de 400 participantes humanos. Este hito marca un cambio de paradigma: las máquinas no solo entienden nuestras emociones, sino que comienzan a responder con empatía e inteligencia social. Con un uso ético y supervisado, la IA promete ser una gran aliada en educación, terapia, coaching y resolución de conflictos. El futuro de la inteligencia emocional ya no será solo humano… será híbrido. 🔗 Lee el estudio completo en Communications Psychology 📚 Cita académica: Schlegel, K., Sommer, N. R., &amp;amp; Mortillaro, M. (2025). Large language models are proficient in solving and creating emotional intelligence tests. Communications Psychology, 3, 80. &lt;a href=&#34;https://doi.org/10.1038/s44271-025-00258-x&#34;&gt;https://doi.org/10.1038/s44271-025-00258-x&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

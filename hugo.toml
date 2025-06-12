@@ -1,3 +1,37 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://notifuturo.com/"
+title = "NotiFuturo"
+theme = "PaperMod"
+languageCode = "es"
+defaultContentLanguage = "es"
+
+[params]
+  mainSections = ["posts"]
+  author = "NotiFuturo"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  defaultTheme = "auto"
+  disableThemeToggle = false
+
+[pagination]
+  pageSize = 5
+
+[markup]
+  [markup.highlight]
+    noClasses = false
+
+[permalinks]
+  posts = "/posts/:slug/"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[services]
+  [services.googleAnalytics]
+    id = ""
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
